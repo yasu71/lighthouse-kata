@@ -7,4 +7,3 @@ while (i < packingList.length) {
   i++;
 }
 packingList[3];
-
